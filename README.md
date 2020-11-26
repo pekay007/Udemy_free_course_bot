@@ -1,7 +1,5 @@
 # Automatic Udemy Course Enroller: GET PAID COURSES for FREE! (Legally!)
 
-The code scrapes course links and coupons from
-[tutorialbar.com](https://tutorialbar.com)
 
 ## **_Disclaimer & WARNINGS:_**
 
@@ -161,11 +159,5 @@ instructions: https://datatofish.com/batch-python-script/
 ### 8. Which branch to commit against?
 
 Pull request should be made on "develop" branch.
-
-### 9. What's the roadmap?
-
-Take a look at our
-[Roadmap here](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE/projects/1)
-and help us on what you want or talk to us about your proposed changes.
 
 ---
